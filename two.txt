@@ -1,0 +1,2 @@
+added text in the two.txt
+add the data in stage
